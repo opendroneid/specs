@@ -1,2 +1,2 @@
-# spec
-The Open Drone ID specification
+# specs
+The Open Drone ID specifications
