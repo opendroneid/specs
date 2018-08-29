@@ -2,4 +2,4 @@
 The Open Drone ID specifications
 
 # Document Structure
-![Document Structure](odid_document_structure.png)
+![Document Structure](images/odid_document_structure.png)
